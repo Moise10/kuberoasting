@@ -47,3 +47,6 @@ SecurityEvent
 | where ServiceName !contains "$" // Filter out standard machine accounts
 | summarize TicketCount = count() by TargetUserName, ServiceName, IpAddress
 | where TicketCount > 5
+
+<img width="1897" height="981" alt="Screenshot 2026-02-08 at 01 14 29" src="https://github.com/user-attachments/assets/24c0adfb-be6a-4986-8ccf-103fae528abc" />
+
