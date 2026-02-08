@@ -1,5 +1,8 @@
 # Hybrid Identity Security: Kerberos Exploitation & Remediation Analysis
 
+<img width="1897" height="981" alt="Screenshot 2026-02-08 at 01 14 29" src="https://github.com/user-attachments/assets/3ccd655f-b304-49e9-8bc7-ea5917e88714" />
+
+
 ## 🎯 Project Overview
 This project simulates a **Kerberoasting** attack within a high-fidelity Windows Domain environment (`eagle.local`). The objective was to identify security debt in identity management—specifically the use of legacy encryption protocols and weak service account password policies—and demonstrate how these vulnerabilities lead to full domain compromise.
 
@@ -48,5 +51,5 @@ SecurityEvent
 | summarize TicketCount = count() by TargetUserName, ServiceName, IpAddress
 | where TicketCount > 5
 
-<img width="1897" height="981" alt="Screenshot 2026-02-08 at 01 14 29" src="https://github.com/user-attachments/assets/24c0adfb-be6a-4986-8ccf-103fae528abc" />
+
 
