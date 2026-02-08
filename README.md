@@ -1,6 +1,15 @@
 # Hybrid Identity Security: Kerberos Exploitation & Remediation Analysis
 
-<img width="1897" height="981" alt="Screenshot 2026-02-08 at 01 14 29" src="https://github.com/user-attachments/assets/3ccd655f-b304-49e9-8bc7-ea5917e88714" />
+<img width="1897" height="981" alt="Screenshot 2026-02-08 at 01 14 29" src="https://github.com/user-attachments/assets/3d7d28bb-fe07-4303-9b02-0fa08a7ea54d" />
+<img width="1914" height="927" alt="Screenshot 2026-02-08 at 01 14 56" src="https://github.com/user-attachments/assets/399a2d90-8f6a-4ca1-972b-95007caa8deb" />
+<img width="1916" height="843" alt="Screenshot 2026-02-08 at 01 15 35" src="https://github.com/user-attachments/assets/7ef22411-5e0e-40bf-8694-51a04e9f07a2" />
+<img width="1917" height="1090" alt="Screenshot 2026-02-08 at 01 18 02" src="https://github.com/user-attachments/assets/66a98ab7-f659-46c3-8af4-7d9c4f1a1a5a" />
+<img width="1912" height="1067" alt="Screenshot 2026-02-08 at 01 18 21" src="https://github.com/user-attachments/assets/99a0101c-7c24-400a-97ce-4980c661389c" />
+
+
+
+
+
 
 
 ## 🎯 Project Overview
